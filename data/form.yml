@@ -1,0 +1,11 @@
+####################### Form #########################
+style:
+title : "Contact Me"
+subtitle: "If you have any queries, please feel free to send me a message."
+
+content : |
+#button:
+#  label : "Enter"
+#  link : "#first"
+#image : "images/banner.jpg"
+
