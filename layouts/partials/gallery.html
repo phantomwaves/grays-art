@@ -1,14 +1,12 @@
 <!-- Gallery -->
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <section class="wrapper style1 align-center" {{ with .id }} id="{{ . }}"{{ end }}>
-    <div class="inner">
-        <h2>{{ .title }}</h2>
-        <p>{{ .content | safeHTML }}</p>
+        <!-- Gallery -->
+    <div class="gallery {{ .style }}" style="vertical-align: middle" >
+            {{ range .pictures }}
+            {{ partial "picture" . }}
+            {{ end }}
     </div>
 
-    <!-- Gallery -->
-    <div class="gallery {{ .style }}">
-        {{ range .pictures }}
-            {{ partial "picture" . }}
-        {{ end }}
-    </div>
+
 </section>
