@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "About me"
 content: |
-  Most of my paintings are based on the spectacular Cornish coastline.
+  Most of my paintings are inspired by the spectacular Cornish coastline.
 button:
   label: "View Gallery"
   link: "#gallery"

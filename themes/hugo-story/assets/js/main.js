@@ -178,7 +178,7 @@
 				}
 			})
 			.children('.inner')
-				//.css('overflow', 'hidden')
+				// .css('overflow', 'hidden')
 				.css('overflow-y', browser.mobile ? 'visible' : 'hidden')
 				.css('overflow-x', browser.mobile ? 'scroll' : 'hidden')
 				.scrollLeft(0);

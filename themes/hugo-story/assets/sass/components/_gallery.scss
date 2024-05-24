@@ -74,17 +74,24 @@
 		@include vendor('justify-content', 'center');
 		position: relative;
 		width: 100%;
-		background-color: transparent;
+		//padding-left: 10%;
+		//padding-right: 10%;
+		background-color: white;
 
 		> .forward, >.backward {
 			display: none;
 		}
 
 		> .inner {
-			@include vendor('align-items', 'inherit');
+			//@include vendor('align-items', 'inherit');
 			@include vendor('display', 'inherit');
-			@include vendor('flex-wrap', 'inherit');
+			//@include vendor('flex-wrap', 'inherit');
 			@include vendor('justify-content', 'inherit');
+			display: flex;
+			flex-flow: row wrap;
+			align-content: start;
+			align-items: self-start;
+			flex: 1 1 auto;
 		}
 
 		article {
@@ -94,12 +101,15 @@
 
 			.image {
 				@include vendor('transition', 'opacity #{_duration(transition)} ease-in-out');
-				display: block;
+				display: flex;
+
 				width: 100%;
 				border-radius: 0;
+				height: fit-content;
+
 
 				img {
-					display: block;
+					display: flex;
 					width: 100%;
 					border-radius: 0;
 				}
@@ -223,8 +233,49 @@
 				}
 
 				&.medium {
-					// ...
+					article {
+						display: flex;
+						height: max-content;
+						width: 33%;
+						align-self: start;
+
+
+						.caption {
+							padding: 1rem;
+						}
+					}
+
+					@include breakpoint('<=large') {
+						article {
+							width: 25%;
+
+							.caption {
+								padding: 1rem;
+							}
+						}
+					}
+
+					@include breakpoint('<=medium') {
+						article {
+							width: (100% / 3);
+
+							.caption {
+								padding: 1rem;
+							}
+						}
+					}
+
+					@include breakpoint('<=xsmall') {
+						article {
+							width: 50%;
+
+							.caption {
+								padding: 1rem;
+							}
+						}
+					}
 				}
+
 
 				&.big {
 					article {
