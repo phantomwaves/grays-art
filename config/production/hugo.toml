@@ -16,9 +16,6 @@ relativeURLs = "true"
 baseURL = "/"
 publishDir = "public"
 
-# Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
@@ -37,7 +34,7 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
-  instagram = "https://instagram.com"
+  instagram = "https://instagram.com/barr_graham/"
 
 
 [Params.asset]

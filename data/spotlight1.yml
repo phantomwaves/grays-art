@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
 title : "About me"
 content: |
-  Most of my paintings are inspired by the spectacular Cornish coastline.
+  I live in Brontë Country, West Yorkshire but most of my paintings are inspired by the Cornish coastline.
 button:
-  label: "View Gallery"
-  link: "#gallery"
-image: "images/sunnysennen.jpg"
+  label: "See more"
+  link: "#spotlight2"
+image: "images/me.jpg"
