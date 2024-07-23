@@ -71,3 +71,33 @@ pictures:
     image: "images/gallery/fulls/06.jpg"
     thumb: "images/gallery/thumbs/06_thumbnail_1080x1080.jpg"
     button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/13.jpg"
+    thumb: "images/gallery/thumbs/13_t.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/14.jpg"
+    thumb: "images/gallery/thumbs/14_t.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/15.jpg"
+    thumb: "images/gallery/thumbs/15_t.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/16.jpg"
+    thumb: "images/gallery/thumbs/16_t.jpg"
+    button: "View"
+
+#  - title: ""
+#    content: ""
+#    image: "images/gallery/fulls/06.jpg"
+#    thumb: "images/gallery/thumbs/06_thumbnail_1080x1080.jpg"
+#    button: "View"
