@@ -1,0 +1,111 @@
+title: "Recent Works"
+style: "style1 medium lightbox onscroll-fade-in"
+id: "gallery"
+content: |
+pictures:
+
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6303.jpg"
+    thumb: "images/gallery/thumbs/IMG_6303_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6312.jpg"
+    thumb: "images/gallery/thumbs/IMG_6312_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6318.jpg"
+    thumb: "images/gallery/thumbs/IMG_6318_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6328.jpg"
+    thumb: "images/gallery/thumbs/IMG_6328_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6340.jpg"
+    thumb: "images/gallery/thumbs/IMG_6340_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6344.jpg"
+    thumb: "images/gallery/thumbs/IMG_6344_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6370.jpg"
+    thumb: "images/gallery/thumbs/IMG_6370_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6376.jpg"
+    thumb: "images/gallery/thumbs/IMG_6376_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6382.jpg"
+    thumb: "images/gallery/thumbs/IMG_6382_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6391.jpg"
+    thumb: "images/gallery/thumbs/IMG_6391_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6405.jpg"
+    thumb: "images/gallery/thumbs/IMG_6405_thumbnail_1080x1080.jpg"
+    button: "View"
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6412.jpg"
+    thumb: "images/gallery/thumbs/IMG_6412_thumbnail_1080x1080.jpg"
+    button: "View"  
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6420.jpg"
+    thumb: "images/gallery/thumbs/IMG_6420_thumbnail_1080x1080.jpg"
+    button: "View"  
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6430.jpg"
+    thumb: "images/gallery/thumbs/IMG_6430_thumbnail_1080x1080.jpg"
+    button: "View"  
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6441.jpg"
+    thumb: "images/gallery/thumbs/IMG_6441_thumbnail_1080x1080.jpg"
+    button: "View"  
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6450.jpg"
+    thumb: "images/gallery/thumbs/IMG_6450_thumbnail_1080x1080.jpg"
+    button: "View"  
+
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6463.jpg"
+    thumb: "images/gallery/thumbs/IMG_6463_thumbnail_1080x1080.jpg"
+    button: "View"  
+
+
+  
