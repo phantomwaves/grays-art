@@ -7,8 +7,8 @@ pictures:
 
   - title: ""
     content: ""
-    image: "images/gallery/fulls/IMG_6303.jpg"
-    thumb: "images/gallery/thumbs/IMG_6303_thumbnail_1080x1080.jpg"
+    image: "images/gallery/fulls/IMG_6484.jpg"
+    thumb: "images/gallery/thumbs/IMG_6484_thumbnail_1080x1080.jpg"
     button: "View"
 
   - title: ""
@@ -107,5 +107,10 @@ pictures:
     thumb: "images/gallery/thumbs/IMG_6463_thumbnail_1080x1080.jpg"
     button: "View"  
 
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/IMG_6303.jpg"
+    thumb: "images/gallery/thumbs/IMG_6303_thumbnail_1080x1080.jpg"
+    button: "View"
 
   
